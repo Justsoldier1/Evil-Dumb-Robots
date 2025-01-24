@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/g016211o/Documents/GitHub/Evil-Dumb-Robots/Soap_Warrior/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/g016211o/Documents/GitHub/Evil-Dumb-Robots/Soap_Warrior/Content/BubbleBlower.uasset",
+				"C:/Users/g016211o/Documents/GitHub/Evil-Dumb-Robots/Soap_Warrior/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2H/X8LB07HPLZ1RLY8Z2EH2N7.uasset",
+				"C:/Users/g016211o/Documents/GitHub/Evil-Dumb-Robots/Soap_Warrior/Content/image__1_.uasset",
+				"C:/Users/g016211o/Documents/GitHub/Evil-Dumb-Robots/Soap_Warrior/Content/NewMaterial.uasset",
+				"C:/Users/g016211o/Documents/GitHub/Evil-Dumb-Robots/Soap_Warrior/Content/SprayCleaner.uasset",
+				"C:/Users/g016211o/Documents/GitHub/Evil-Dumb-Robots/Soap_Warrior/Content/image__2_.uasset",
+				"C:/Users/g016211o/Documents/GitHub/Evil-Dumb-Robots/Soap_Warrior/Content/NewMaterial1.uasset",
+				"C:/Users/g016211o/Documents/GitHub/Evil-Dumb-Robots/Soap_Warrior/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/21/SBQLJO69OCH858J9AAB1T7.uasset"
+			]
+		}
+	]
+}
